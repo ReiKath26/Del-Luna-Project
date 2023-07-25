@@ -13,6 +13,6 @@ This project is made as a final project for the HCI course where we are tasked t
 
 Made by
 
-2301854340 - Tony Harris Hung
-2301870110 - Kathleen Febiola Susanto
-2301952773 - Ryani Yuan Jie Lee
+Tony Harris Hung
+Kathleen Febiola Susanto
+Ryani Yuan Jie Lee
